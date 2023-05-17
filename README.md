@@ -29,6 +29,8 @@ Under you can see example of modified photo which is the same photo from previou
 ### TRAINING MODEL
 Model uses a pre-trained VGG16 network as a feature extractor, then adds a dense layers for classification. The dataset is loaded from three folders train, test and validation and then preprocessed. Finally, the model is compiled with Adam optimizer and Binary Cross-entropy loss function. The model is trained and logs are saved to a directory. Under you can see a structure of neural network:
 
+![alt text](https://github.com/jakub1203/Gesture-Controlled-Flappy-Bird-using-Fist-Detection-Model-with-CNN/blob/main/photo3.PNG)
+
 ### FLAPPY BIRD GAME
 As a result I crated Gesture Controlled Flappy Bird game. The performance youc can see under: 
 
