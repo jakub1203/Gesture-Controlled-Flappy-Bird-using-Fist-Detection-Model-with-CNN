@@ -32,6 +32,6 @@ Model uses a pre-trained VGG16 network as a feature extractor, then adds a dense
 ![alt text](https://github.com/jakub1203/Gesture-Controlled-Flappy-Bird-using-Fist-Detection-Model-with-CNN/blob/main/photo3.PNG)
 
 ### FLAPPY BIRD GAME
-As a result I crated Gesture Controlled Flappy Bird game. The performance youc can see under: 
+As a result I crated Gesture Controlled Flappy Bird game. The performance you can see under: 
 
 ![alt text](https://github.com/jakub1203/Gesture-Controlled-Flappy-Bird-using-Fist-Detection-Model-with-CNN/blob/main/gif.gif)
