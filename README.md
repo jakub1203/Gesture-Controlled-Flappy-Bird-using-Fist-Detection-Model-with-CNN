@@ -1,7 +1,7 @@
 # Gesture-Controlled-Flappy-Bird-using-Fist-Detection-Model-with-CNN
 
 ### INTRODUCTION
-The purpose of the project was to create model which can detect if video from camera contains clenched fist. Based on final model I improved my first project with functionality that give opportunity to play Flappy Bird based on video from camera. The project is divided for three sections: data preparation (Data preparation.ipynb), training model (Training model.ipynb) and flappy bird game (Flappy Bird.ipynb). The code heavily relies on the content from a YouTube video found at the following URL: https://www.youtube.com/watch?v=LKispFFQ5GU
+The purpose of the project was to create model which can detect if video from camera contains clenched fist. Based on final model I improved my first project with functionality that give opportunity to play Flappy Bird based on video from camera. The project is divided for three sections: data preparation (Data preparation.ipynb), training model (Training model.ipynb) and flappy bird game (Flappy Bird.ipynb).
 
 
 ### DATA PREPARATION
@@ -35,3 +35,7 @@ Model uses a pre-trained VGG16 network as a feature extractor, then adds a dense
 As a result I crated Gesture Controlled Flappy Bird game. The performance you can see under: 
 
 ![alt text](https://github.com/jakub1203/Gesture-Controlled-Flappy-Bird-using-Fist-Detection-Model-with-CNN/blob/main/gif.gif)
+
+
+
+ The code heavily relies on the content from a YouTube video found at the following URL: https://www.youtube.com/watch?v=LKispFFQ5GU
